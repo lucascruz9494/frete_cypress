@@ -98,4 +98,4 @@ npx cypress run
 
    não foram feitos devido a falta de tempo e por ter uma grande quantidade de pesos disponíveis
 
-obs : existe uma modal de preenchimento de email na aplicação que possivelmente atrapalhe nos testes, sendo necessário fechar os testes e abrir novamente. Ou preencher com algum email, pois aparece apenas 1x.
+**obs : existe uma modal de preenchimento de email na aplicação que possivelmente atrapalhe nos testes, sendo necessário fechar os testes e abrir novamente. Ou preencher com algum email, pois aparece apenas 1x.**
