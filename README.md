@@ -10,15 +10,15 @@ npx cypress run
 
 ## Casos de Teste Automatizados
 
-1. Fluxo com dados válidos sem nenhum serviço adicional
-- Descrição: Testa o cálculo de frete com todas as entradas válidas, incluindo CEPs válidos, dimensões e peso dentro dos limites permitidos.
- - Cenário:
-   CEP de origem válido.
-   CEP de destino válido.
-   Formato "Caixa/Pacote".
-   Peso válido.
-   Dimensões válidas.
-   Verificação das opções de frete (PAC, Sedex, Mini Envios).
+### 1. Fluxo com dados válidos sem nenhum serviço adicional
+**Descrição**: Testa o cálculo de frete com todas as entradas válidas, incluindo CEPs válidos, dimensões e peso dentro dos limites permitidos.
+**Cenário**:
+   1.CEP de origem válido.
+   2.CEP de destino válido.
+   3.Formato "Caixa/Pacote".
+   4.Peso válido.
+   5.Dimensões válidas.
+   6.Verificação das opções de frete (PAC, Sedex, Mini Envios).
 2. Fluxo com CEP de destino inválido
   - Descrição: Testa o comportamento do sistema ao inserir um CEP de destino inválido.
   - Cenário:
