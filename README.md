@@ -10,7 +10,7 @@ npx cypress run
 
 ## Casos de Teste Automatizados
 
-###1. Fluxo com dados válidos sem nenhum serviço adicional
+1. Fluxo com dados válidos sem nenhum serviço adicional
    
 **Descrição**: Testa o cálculo de frete com todas as entradas válidas, incluindo CEPs válidos, dimensões e peso dentro dos limites permitidos.
 
